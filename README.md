@@ -43,5 +43,10 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/BTANISHA11/DoIT/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/BTANISHA11/DoIT/tree/master/0392-is-subsequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/BTANISHA11/DoIT/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
