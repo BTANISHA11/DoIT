@@ -7,6 +7,7 @@
 | [0041-first-missing-positive](https://github.com/BTANISHA11/DoIT/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/BTANISHA11/DoIT/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/BTANISHA11/DoIT/tree/master/0238-product-of-array-except-self) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/BTANISHA11/DoIT/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/BTANISHA11/DoIT/tree/master/0169-majority-element) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/BTANISHA11/DoIT/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Counting
 |  |
 | ------- |
