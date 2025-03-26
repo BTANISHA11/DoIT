@@ -6,6 +6,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/BTANISHA11/DoIT/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/BTANISHA11/DoIT/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/BTANISHA11/DoIT/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/BTANISHA11/DoIT/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/BTANISHA11/DoIT/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/BTANISHA11/DoIT/tree/master/0260-single-number-iii) |
@@ -15,6 +16,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/BTANISHA11/DoIT/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/BTANISHA11/DoIT/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/BTANISHA11/DoIT/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/BTANISHA11/DoIT/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -55,4 +57,8 @@
 | ------- |
 | [0260-single-number-iii](https://github.com/BTANISHA11/DoIT/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/BTANISHA11/DoIT/tree/master/0338-counting-bits) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/BTANISHA11/DoIT/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
