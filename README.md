@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/BTANISHA11/DoIT/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/BTANISHA11/DoIT/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/BTANISHA11/DoIT/tree/master/0260-single-number-iii) |
+| [0560-subarray-sum-equals-k](https://github.com/BTANISHA11/DoIT/tree/master/0560-subarray-sum-equals-k) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/BTANISHA11/DoIT/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@
 | [0049-group-anagrams](https://github.com/BTANISHA11/DoIT/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/BTANISHA11/DoIT/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/BTANISHA11/DoIT/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/BTANISHA11/DoIT/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/BTANISHA11/DoIT/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/BTANISHA11/DoIT/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
