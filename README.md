@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BTANISHA11/DoIT/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/BTANISHA11/DoIT/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/BTANISHA11/DoIT/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/BTANISHA11/DoIT/tree/master/0128-longest-consecutive-sequence) |
@@ -39,6 +40,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BTANISHA11/DoIT/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/BTANISHA11/DoIT/tree/master/0392-is-subsequence) |
 ## String
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/BTANISHA11/DoIT/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/BTANISHA11/DoIT/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
