@@ -22,6 +22,7 @@
 | [0049-group-anagrams](https://github.com/BTANISHA11/DoIT/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/BTANISHA11/DoIT/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/BTANISHA11/DoIT/tree/master/0169-majority-element) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/BTANISHA11/DoIT/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
@@ -57,6 +58,7 @@
 | [0049-group-anagrams](https://github.com/BTANISHA11/DoIT/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/BTANISHA11/DoIT/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,4 +86,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BTANISHA11/DoIT/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
