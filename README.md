@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/BTANISHA11/DoIT/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/BTANISHA11/DoIT/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/BTANISHA11/DoIT/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/BTANISHA11/DoIT/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/BTANISHA11/DoIT/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/BTANISHA11/DoIT/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/BTANISHA11/DoIT/tree/master/0169-majority-element) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/BTANISHA11/DoIT/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/BTANISHA11/DoIT/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/BTANISHA11/DoIT/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/BTANISHA11/DoIT/tree/master/0392-is-subsequence) |
 ## String
@@ -55,6 +57,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/BTANISHA11/DoIT/tree/master/0042-trapping-rain-water) |
 | [0338-counting-bits](https://github.com/BTANISHA11/DoIT/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/BTANISHA11/DoIT/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
@@ -70,4 +73,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BTANISHA11/DoIT/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/BTANISHA11/DoIT/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/BTANISHA11/DoIT/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
