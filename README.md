@@ -24,6 +24,7 @@
 | [0169-majority-element](https://github.com/BTANISHA11/DoIT/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/BTANISHA11/DoIT/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/BTANISHA11/DoIT/tree/master/0567-permutation-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0042-trapping-rain-water](https://github.com/BTANISHA11/DoIT/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/BTANISHA11/DoIT/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/BTANISHA11/DoIT/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/BTANISHA11/DoIT/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/BTANISHA11/DoIT/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -90,4 +93,5 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/BTANISHA11/DoIT/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
