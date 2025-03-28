@@ -56,6 +56,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/BTANISHA11/DoIT/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/BTANISHA11/DoIT/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/BTANISHA11/DoIT/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/BTANISHA11/DoIT/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/BTANISHA11/DoIT/tree/master/0392-is-subsequence) |
@@ -118,4 +119,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/BTANISHA11/DoIT/tree/master/0048-rotate-image) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/BTANISHA11/DoIT/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
