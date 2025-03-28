@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/BTANISHA11/DoIT/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/BTANISHA11/DoIT/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/BTANISHA11/DoIT/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/BTANISHA11/DoIT/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/BTANISHA11/DoIT/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/BTANISHA11/DoIT/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/BTANISHA11/DoIT/tree/master/0238-product-of-array-except-self) |
@@ -103,4 +104,12 @@
 | [0076-minimum-window-substring](https://github.com/BTANISHA11/DoIT/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/BTANISHA11/DoIT/tree/master/0567-permutation-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/BTANISHA11/DoIT/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/BTANISHA11/DoIT/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
