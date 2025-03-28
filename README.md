@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/BTANISHA11/DoIT/tree/master/0015-3sum) |
 | [0041-first-missing-positive](https://github.com/BTANISHA11/DoIT/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/BTANISHA11/DoIT/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/BTANISHA11/DoIT/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/BTANISHA11/DoIT/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/BTANISHA11/DoIT/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/BTANISHA11/DoIT/tree/master/0054-spiral-matrix) |
@@ -107,9 +108,14 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/BTANISHA11/DoIT/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/BTANISHA11/DoIT/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/BTANISHA11/DoIT/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/BTANISHA11/DoIT/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
