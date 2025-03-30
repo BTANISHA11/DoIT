@@ -26,6 +26,7 @@
 | [0049-group-anagrams](https://github.com/BTANISHA11/DoIT/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/BTANISHA11/DoIT/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/BTANISHA11/DoIT/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/BTANISHA11/DoIT/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/BTANISHA11/DoIT/tree/master/0169-majority-element) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/BTANISHA11/DoIT/tree/master/0560-subarray-sum-equals-k) |
@@ -58,6 +59,7 @@
 | [0015-3sum](https://github.com/BTANISHA11/DoIT/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BTANISHA11/DoIT/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/BTANISHA11/DoIT/tree/master/0042-trapping-rain-water) |
+| [0142-linked-list-cycle-ii](https://github.com/BTANISHA11/DoIT/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/BTANISHA11/DoIT/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/BTANISHA11/DoIT/tree/master/0567-permutation-in-string) |
@@ -126,6 +128,7 @@
 | [0002-add-two-numbers](https://github.com/BTANISHA11/DoIT/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BTANISHA11/DoIT/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/BTANISHA11/DoIT/tree/master/0024-swap-nodes-in-pairs) |
+| [0142-linked-list-cycle-ii](https://github.com/BTANISHA11/DoIT/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
