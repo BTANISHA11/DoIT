@@ -67,6 +67,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BTANISHA11/DoIT/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/BTANISHA11/DoIT/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/BTANISHA11/DoIT/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/BTANISHA11/DoIT/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0151-reverse-words-in-a-string) |
@@ -96,6 +97,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/BTANISHA11/DoIT/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/BTANISHA11/DoIT/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/BTANISHA11/DoIT/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/BTANISHA11/DoIT/tree/master/0144-binary-tree-preorder-traversal) |
