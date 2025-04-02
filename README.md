@@ -74,6 +74,7 @@
 | [0392-is-subsequence](https://github.com/BTANISHA11/DoIT/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/BTANISHA11/DoIT/tree/master/0567-permutation-in-string) |
+| [1274-number-of-days-between-two-dates](https://github.com/BTANISHA11/DoIT/tree/master/1274-number-of-days-between-two-dates) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/BTANISHA11/DoIT/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/BTANISHA11/DoIT/tree/master/0048-rotate-image) |
+| [1274-number-of-days-between-two-dates](https://github.com/BTANISHA11/DoIT/tree/master/1274-number-of-days-between-two-dates) |
 ## Linked List
 |  |
 | ------- |
