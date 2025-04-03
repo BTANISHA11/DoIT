@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/BTANISHA11/DoIT/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/BTANISHA11/DoIT/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/BTANISHA11/DoIT/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/BTANISHA11/DoIT/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BTANISHA11/DoIT/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/BTANISHA11/DoIT/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/BTANISHA11/DoIT/tree/master/0169-majority-element) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0015-3sum](https://github.com/BTANISHA11/DoIT/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/BTANISHA11/DoIT/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/BTANISHA11/DoIT/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/BTANISHA11/DoIT/tree/master/0169-majority-element) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/BTANISHA11/DoIT/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Counting
@@ -61,6 +63,7 @@
 | [0015-3sum](https://github.com/BTANISHA11/DoIT/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/BTANISHA11/DoIT/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/BTANISHA11/DoIT/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/BTANISHA11/DoIT/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/BTANISHA11/DoIT/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/BTANISHA11/DoIT/tree/master/0392-is-subsequence) |
