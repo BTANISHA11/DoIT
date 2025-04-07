@@ -17,6 +17,7 @@
 | [0053-maximum-subarray](https://github.com/BTANISHA11/DoIT/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/BTANISHA11/DoIT/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/BTANISHA11/DoIT/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/BTANISHA11/DoIT/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BTANISHA11/DoIT/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/BTANISHA11/DoIT/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/BTANISHA11/DoIT/tree/master/0169-majority-element) |
@@ -95,6 +96,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/BTANISHA11/DoIT/tree/master/0078-subsets) |
 | [0260-single-number-iii](https://github.com/BTANISHA11/DoIT/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/BTANISHA11/DoIT/tree/master/0338-counting-bits) |
 ## Union Find
@@ -194,4 +196,5 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/BTANISHA11/DoIT/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/BTANISHA11/DoIT/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
