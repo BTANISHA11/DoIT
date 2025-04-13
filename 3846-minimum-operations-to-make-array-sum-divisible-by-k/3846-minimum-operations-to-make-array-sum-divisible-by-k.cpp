@@ -1,6 +1,14 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-       return accumulate(nums.begin(), nums.end(), 0)%k;
+        int n = nums.size();
+        int sum = 0;
+
+        for(int i=0; i<n; i++) {
+            sum += nums[i];
+        }
+
+        int result = sum % k;
+        return result;
     }
 };
