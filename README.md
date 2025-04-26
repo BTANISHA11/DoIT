@@ -25,6 +25,7 @@
 | [0239-sliding-window-maximum](https://github.com/BTANISHA11/DoIT/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/BTANISHA11/DoIT/tree/master/0260-single-number-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/BTANISHA11/DoIT/tree/master/0560-subarray-sum-equals-k) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/BTANISHA11/DoIT/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/BTANISHA11/DoIT/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/BTANISHA11/DoIT/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
@@ -131,6 +132,7 @@
 | [0239-sliding-window-maximum](https://github.com/BTANISHA11/DoIT/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/BTANISHA11/DoIT/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/BTANISHA11/DoIT/tree/master/0567-permutation-in-string) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/BTANISHA11/DoIT/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/BTANISHA11/DoIT/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Matrix
 |  |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/BTANISHA11/DoIT/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/BTANISHA11/DoIT/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -194,6 +197,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/BTANISHA11/DoIT/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/BTANISHA11/DoIT/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Binary Search
 |  |
 | ------- |
