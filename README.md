@@ -28,6 +28,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/BTANISHA11/DoIT/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/BTANISHA11/DoIT/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/BTANISHA11/DoIT/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/BTANISHA11/DoIT/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
