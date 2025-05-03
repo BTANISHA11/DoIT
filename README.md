@@ -25,6 +25,7 @@
 | [0239-sliding-window-maximum](https://github.com/BTANISHA11/DoIT/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/BTANISHA11/DoIT/tree/master/0260-single-number-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/BTANISHA11/DoIT/tree/master/0560-subarray-sum-equals-k) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/BTANISHA11/DoIT/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/BTANISHA11/DoIT/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/BTANISHA11/DoIT/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/BTANISHA11/DoIT/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -113,6 +114,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BTANISHA11/DoIT/tree/master/0011-container-with-most-water) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/BTANISHA11/DoIT/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 ## Stack
 |  |
 | ------- |
