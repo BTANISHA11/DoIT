@@ -26,6 +26,7 @@
 | [0260-single-number-iii](https://github.com/BTANISHA11/DoIT/tree/master/0260-single-number-iii) |
 | [0560-subarray-sum-equals-k](https://github.com/BTANISHA11/DoIT/tree/master/0560-subarray-sum-equals-k) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/BTANISHA11/DoIT/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [2048-build-array-from-permutation](https://github.com/BTANISHA11/DoIT/tree/master/2048-build-array-from-permutation) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/BTANISHA11/DoIT/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/BTANISHA11/DoIT/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/BTANISHA11/DoIT/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/BTANISHA11/DoIT/tree/master/0054-spiral-matrix) |
+| [2048-build-array-from-permutation](https://github.com/BTANISHA11/DoIT/tree/master/2048-build-array-from-permutation) |
 ## Math
 |  |
 | ------- |
