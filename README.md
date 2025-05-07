@@ -30,6 +30,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/BTANISHA11/DoIT/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/BTANISHA11/DoIT/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/BTANISHA11/DoIT/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/BTANISHA11/DoIT/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/BTANISHA11/DoIT/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/BTANISHA11/DoIT/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
@@ -147,6 +148,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/BTANISHA11/DoIT/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/BTANISHA11/DoIT/tree/master/0054-spiral-matrix) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/BTANISHA11/DoIT/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Simulation
 |  |
 | ------- |
@@ -202,6 +204,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/BTANISHA11/DoIT/tree/master/0239-sliding-window-maximum) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/BTANISHA11/DoIT/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -224,4 +227,12 @@
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/BTANISHA11/DoIT/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/BTANISHA11/DoIT/tree/master/0199-binary-tree-right-side-view) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/BTANISHA11/DoIT/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/BTANISHA11/DoIT/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
